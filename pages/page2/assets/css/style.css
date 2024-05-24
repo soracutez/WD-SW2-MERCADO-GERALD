@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #808B96;
+    padding: 8px 10px;
+}
+
+h1.titlePage2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 8px 10px;
+    color: white;
+    margin: 8px 10px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ABB2B9;
+    color: white;
+}
