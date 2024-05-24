@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Wwebsite Reference | I used the format of this website to implement on my own website. | https://blog.hubspot.com/website/resume-website-examples |
