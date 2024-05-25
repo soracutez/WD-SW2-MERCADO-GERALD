@@ -44,3 +44,9 @@ h1.pageTitle{
     background-color: #ABB2B9;
     color: white;
 }
+
+.mainPage{
+    display: flex;
+    justify-content: flex-start;
+    font-weight: 600px;
+}
