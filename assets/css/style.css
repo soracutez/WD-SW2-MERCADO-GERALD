@@ -56,7 +56,6 @@ h1.applicant {
 .mainPageContent {
     font-family: "IBM Plex Sans", sans-serif;
     font-weight: 700;
-<<<<<<< HEAD
     font-style: bold;
     font-size: x-large;
     color: white;
@@ -64,12 +63,6 @@ h1.applicant {
     opacity: 0;
     transform: translateY(20px);
     animation: fadeInUp 1s ease forwards;
-=======
-    font-style: italic;
-    color: white;
-    padding: 10px 200px;
-    
->>>>>>> dcce51c616e8bcf3999af219f0a196709bb0b994
 }
 
 @keyframes fadeInUp {

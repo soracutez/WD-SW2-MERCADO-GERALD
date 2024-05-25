@@ -108,7 +108,6 @@ h1.pageTitle {
     color: white;
 }
 
-<<<<<<< HEAD
 .imageAboutContainer {
     display: flex;
     justify-content: center;
@@ -124,10 +123,3 @@ h1.pageTitle {
 
 
 
-=======
-.mainPage{
-    display: flex;
-    justify-content: flex-start;
-    font-weight: 600px;
-}
->>>>>>> dcce51c616e8bcf3999af219f0a196709bb0b994
