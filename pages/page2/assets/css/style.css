@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 body {
     background-color: #008ECA;
     margin: 0;
+=======
+body{
+    background-color: black;
+    margin: 0px;
+>>>>>>> dcce51c616e8bcf3999af219f0a196709bb0b994
 }
 
 header {
@@ -35,6 +41,7 @@ h1.titlePage2{
     color: white;
 }
 
+<<<<<<< HEAD
 .introPortfolio{
     display: flex;
     justify-content: center;
@@ -95,3 +102,14 @@ h1.titlePage2{
     }
 }
 
+=======
+.mainPage{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+
+h1{
+    color: white;
+}
+>>>>>>> dcce51c616e8bcf3999af219f0a196709bb0b994

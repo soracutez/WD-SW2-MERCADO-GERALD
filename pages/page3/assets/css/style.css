@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 body {
     background-color: #008ECA;
     margin: 0;
+=======
+body{
+    background-color: black;
+    margin: 0px;
+>>>>>>> dcce51c616e8bcf3999af219f0a196709bb0b994
 }
 
 header {
@@ -35,6 +41,7 @@ h1.titlePage3 {
     color: white;
 }
 
+<<<<<<< HEAD
 
 .social-icons {
     position: fixed;
@@ -132,3 +139,43 @@ h1.titlePage3 {
     text-shadow: 0 0 5px black;
     transition: background-color 0.3s ease;
 }
+=======
+.mainContact{
+    display: flex;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding: 8px 10px;
+}
+
+.personalContacts{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600px;
+    padding: 8px 10px;
+    color: white;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: cyan;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+>>>>>>> dcce51c616e8bcf3999af219f0a196709bb0b994
