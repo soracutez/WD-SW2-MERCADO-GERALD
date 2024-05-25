@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Wwebsite Reference | I used the format of this website to implement on my own website. | https://blog.hubspot.com/website/resume-website-examples |
+| Website Reference | I used the format of this website to implement on my own website. | https://blog.hubspot.com/website/resume-website-examples |
