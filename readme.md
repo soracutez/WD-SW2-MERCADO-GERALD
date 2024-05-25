@@ -6,11 +6,11 @@
 <div align="center">
   <a href="https://github.com/soracutez">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-<<<<<<< HEAD
+
     <img src="./assets/img/SamuraiLogo.jpg" width="130" height="100">
 =======
     <img src="/assets/img/Samurai\ Logo.jpg" width="130" height="100">
->>>>>>> dcce51c616e8bcf3999af219f0a196709bb0b994
+
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Project Resume Website 101.</h3>
