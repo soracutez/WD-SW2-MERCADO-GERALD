@@ -112,10 +112,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-<<<<<<< HEAD
 | Website Reference #1 | I used the format of the website inside to implement on my own website. | https://blog.hubspot.com/website/resume-website-examples |
 | Website Reference #2 | I used the contents inside this blog to implement on my own website. | https://blog.hubspot.com/service/best-contact-us-pages |
-|
-=======
-| Website Reference | I used the format of this website to implement on my own website. | https://blog.hubspot.com/website/resume-website-examples |
->>>>>>> dcce51c616e8bcf3999af219f0a196709bb0b994
+
+
