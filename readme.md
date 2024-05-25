@@ -5,9 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/soracutez">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-
-    <img src="./assets/img/SamuraiLogo.jpg" width="130" height="100">
+  <!-- TODO: If you want to add logo or banner you can add it here --!>
 
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
