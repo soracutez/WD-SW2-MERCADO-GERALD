@@ -1,29 +1,92 @@
-body{
-    background-color: black;
-    margin: 0px;
+body {
+    background-color: #008ECA;
+    margin: 0;
 }
+
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #808B96;
+    background-color: #0066B0;
     padding: 8px 10px;
 }
 
-h1.pageTitle{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+h1.pageTitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
 }
 
-.mainPage{
+.mainPage {
+    display: flex;
+    justify-content: center;
     font-family: "Nunito", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 700px;
     font-style: normal;
-    font-weight: 700px;
-    font-size:xx-large;
+    font-weight: 700;
+    font-size: xx-large;
     color: white;
     padding: 8px 10px;
+    animation: fadeInSlideUp 2s ease-out;
+}
+
+@keyframes fadeInSlideUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.aboutPageContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding: 10px;
+}
+
+.aboutPageContent .centered {
+    text-align: center;
+    max-width: 600px;
+    margin: 10px 0;
+}
+
+.aboutPageContent .button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #d3d3d3;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    text-shadow: 0 0 15px black;
+}
+
+
+@keyframes buttonHover {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.aboutPageContent .button:hover {
+        background-color: white;
+        color: black;
+    animation: buttonHover 0.3s ease;
 }
 
 .navbar {
@@ -44,3 +107,19 @@ h1.pageTitle{
     background-color: #ABB2B9;
     color: white;
 }
+
+.imageAboutContainer {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.imageAboutContainer img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+

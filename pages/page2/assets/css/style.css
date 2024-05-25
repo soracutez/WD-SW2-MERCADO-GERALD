@@ -1,8 +1,13 @@
+body {
+    background-color: #008ECA;
+    margin: 0;
+}
+
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #808B96;
+    background-color: #0066B0;
     padding: 8px 10px;
 }
 
@@ -29,3 +34,64 @@ h1.titlePage2{
     background-color: #ABB2B9;
     color: white;
 }
+
+.introPortfolio{
+    display: flex;
+    justify-content: center;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 800px;
+    color: white;
+}
+
+.imagePortfolioNumber1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.imagePortfolioNumber1 img {
+    max-height: 100%;
+    width: auto;
+    animation: slideInRightToLeft 1s ease-in-out forwards;
+}
+
+@keyframes slideInRightToLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(100%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.imagePortfolioNumber2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.imagePortfolioNumber2 img {
+    max-height: 100%;
+    width: auto;
+    animation: slideInLeftToRight 1s ease-in-out forwards;
+}
+
+@keyframes slideInLeftToRight {
+    0% {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+

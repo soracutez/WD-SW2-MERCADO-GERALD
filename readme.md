@@ -4,16 +4,16 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/soracutez">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/SamuraiLogo.jpg" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Resume Website.</h3>
+  <h3 align="center">Project Resume Website 101.</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Hello, everyone.
+  Hello, this is my Resume Website. I built this using HTML and CSS.
 </div>
 
 <br />
@@ -60,10 +60,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project is to create a Resume Website.
+- The purpose is for us to learn how to develop and design a website.
+- The key components are MultiPage Website/Single Page Website and using keyanimations to implement animations.
+- The technology used are HTML and CSS. I used the HTML to build the website and I used the CSS to implement designs within my website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -76,7 +76,6 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
 1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -111,4 +110,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Website Reference #1 | I used the format of the website inside to implement on my own website. | https://blog.hubspot.com/website/resume-website-examples |
+| Website Reference #2 | I used the contents inside this blog to implement on my own website. | https://blog.hubspot.com/service/best-contact-us-pages |
+|
